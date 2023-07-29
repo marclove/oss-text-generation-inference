@@ -1,3 +1,9 @@
+# Text Generation Inference - Apache 2.0 License
+
+This is a fork of [HuggingFace's Text Generation Inference](https://github.com/huggingface/text-generation-inference) library at the last commit before they changed the license from Apache 2 to proprietary. Since Apache 2.0 grants a "perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable" license, the license to use the code committed up until this point under Apache 2.0 cannot be revoked.
+
+**Beware:** This commit's build failed and the [outstanding bug was fixed](https://github.com/huggingface/text-generation-inference/commit/3ef5ffbc6400370ff2e1546550a6bad3ac61b079) in a commit after the license change. The last commit with a passing build prior to the license change is [2efd46e](https://github.com/huggingface/text-generation-inference/commit/2efd46ef95991a227c9ec79821e6008fdfeb901d).
+
 <div align="center">
 
 ![image](https://github.com/huggingface/text-generation-inference/assets/3841370/38ba1531-ea0d-4851-b31a-a6d4ddc944b0)
